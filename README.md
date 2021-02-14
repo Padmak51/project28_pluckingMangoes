@@ -1,2 +1,2 @@
-# project28_pluckingMangoes
-slingshot concept
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
